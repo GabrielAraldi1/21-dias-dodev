@@ -1,0 +1,1 @@
+console.log('Quem faz direito é muito burro')
